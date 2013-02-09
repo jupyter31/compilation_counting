@@ -1,4 +1,4 @@
 compilation_counting
 ====================
 
-Count scalar product during compillation :)
+Count scalar product during compilation :)
